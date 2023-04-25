@@ -14,6 +14,7 @@ const StyledDiv = styled.div`
 
 const MovieRating = () => {
   return (
+
     <StyledDiv>
       <StyledFaStar />
       <StyledP>9.1/10 IMDb</StyledP>
